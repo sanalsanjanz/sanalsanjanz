@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... flutter
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...anything
-- 📫 How to reach me: ... [Instagram](www.instagram.com/sanal_p.k)
+- 📫 How to reach me: ... [Instagram](https://www.instagram.com/tracecea?r=sanal_p.k)
 - 😄 Pronouns: ... He/Him
 -->
