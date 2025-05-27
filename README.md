@@ -1,4 +1,4 @@
-# Hi there, I'm Sanal P.K! 👋
+# Hi there, I'm Sanal Pk ! 👋
 
 ## 🚀 About Me
 
@@ -22,7 +22,7 @@ class Developer {
 **Mobile Development**
 - 📱 Flutter & Dart
 - 🎨 UI/UX Design Implementation
-- 📊 State Management (Provider, Getx)
+- 📊 State Management (Provider, Bloc, Riverpod)
 - 🔌 API Integration & HTTP Requests
 - 📦 Package Development
 
@@ -34,9 +34,9 @@ class Developer {
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanalsanjanz&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanalsanjanz&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanalsanjanz&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanalsanjanz&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🎯 Current Focus
 
@@ -85,7 +85,7 @@ Documentation       ███░░░░░░░░░░░░░░░░░
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanalsanjanz&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanalsanjanz&theme=tokyo-night&hide_border=true)
 
 ---
 
