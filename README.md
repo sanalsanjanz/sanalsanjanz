@@ -22,7 +22,7 @@ class Developer {
 **Mobile Development**
 - 📱 Flutter & Dart
 - 🎨 UI/UX Design Implementation
-- 📊 State Management (Provider, Bloc, Riverpod)
+- 📊 State Management (Provider, Getx)
 - 🔌 API Integration & HTTP Requests
 - 📦 Package Development
 
@@ -34,9 +34,9 @@ class Developer {
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanalsanjanz&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanalsanjanz&layout=compact&theme=radical&hide_border=true)
 
 ## 🎯 Current Focus
 
@@ -85,12 +85,12 @@ Documentation       ███░░░░░░░░░░░░░░░░░
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanalsanjanz&theme=react-dark&hide_border=true)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sanalsanjanz&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 <div align="center">
