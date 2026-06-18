@@ -1,102 +1,39 @@
-# Hi there, I'm Sanal Pk ! 👋
-
-## 🚀 About Me
-
-I'm a passionate **Flutter Developer** dedicated to creating beautiful, cross-platform mobile applications. Currently expanding my expertise in mobile development and exploring the latest trends in Flutter ecosystem.
-
-```dart
-class Developer {
-  String name = "Sanal P.K";
-  String role = "Flutter Developer";
-  List<String> skills = ["Dart", "Flutter", "Mobile Development"];
-  String status = "Growing & Learning";
+<!-- Animated Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=250&section=header&text=Sanal%20P.K&fontSize=70&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Flutter%20Developer&descAlignY=55&descSize=20" width="100%" alt="Header Banner"/>
   
-  void introduce() {
-    print("Building amazing mobile experiences, one widget at a time! 📱");
-  }
-}
-```
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0175C2&center=true&vCenter=true&width=500&lines=Crafting+Cross-Platform+Mobile+Apps;Flutter+%26+Dart+Enthusiast;Building+Beautiful+User+Interfaces;Clean+Code+Advocate" alt="Typing SVG" />
+  </a>
+</div>
 
-## 🛠️ Tech Stack
-
-**Mobile Development**
-- 📱 Flutter & Dart
-- 🎨 UI/UX Design Implementation
-- 📊 State Management (Provider, Bloc, Riverpod)
-- 🔌 API Integration & HTTP Requests
-- 📦 Package Development
-
-**Tools & Platforms**
-- 🔧 Android Studio / VS Code
-- 📋 Git & GitHub
-- 🎯 Firebase Integration
-- 📱 iOS & Android Deployment
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanalsanjanz&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanalsanjanz&layout=compact&theme=tokyonight&hide_border=true)
-
-## 🎯 Current Focus
-
-- 🔭 **Currently Working On:** Advanced Flutter applications with complex state management
-- 🌱 **Learning:** Flutter animations, custom widgets, and performance optimization
-- 👯 **Looking to Collaborate:** Open source Flutter projects and innovative mobile solutions
-- 🤔 **Exploring:** Cross-platform development best practices and modern app architecture
-
-## 📱 Featured Projects
-
-<!-- Add your projects here -->
-```
-🚧 Project showcases coming soon! 
-Currently working on some exciting Flutter applications.
-```
-
-## 📊 Weekly Development Breakdown
-
-```text
-Flutter Development  ████████████████████░   85%
-Learning & Research  ██████░░░░░░░░░░░░░░░   30%
-Open Source Contrib. ████░░░░░░░░░░░░░░░░░   20%
-Documentation       ███░░░░░░░░░░░░░░░░░░░   15%
-```
-
-## 🌐 Connect With Me
-
-<div align="left">
-  <a href="https://www.instagram.com/sanal_p.k">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<!-- Social Connections -->
+<div align="center">
+  <a href="mailto:sanalpk220@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://wa.me/918606044696?text=Hello%20I%27m%20from%20GitHub">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="mailto:sanalpk220@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://www.instagram.com/sanal_p.k">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
+<br/>
 
-## 💡 Fun Facts
+## 👨‍💻 About Me
 
-- 🎯 I believe in clean code and beautiful user interfaces
-- 🌟 Always excited to learn new technologies and frameworks
-- 🚀 Love contributing to open-source Flutter packages
-- ☕ Powered by coffee and curiosity
+I am a passionate and detail-oriented **Flutter Developer** dedicated to building high-performance, beautiful, and scalable cross-platform mobile applications. I thrive at the intersection of clean architecture and engaging user experiences. 
 
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanalsanjanz&theme=tokyo-night&hide_border=true)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanalsanjanz&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</div>
-
-<div align="center">
+```dart
+class Developer {
+  final String name = "Sanal P.K";
+  final String role = "Flutter Developer";
+  final List<String> coreSkills = ["Dart", "Flutter", "Mobile Architecture"];
+  final String currentFocus = "Advanced State Management & Animations";
   
-**"Code is like humor. When you have to explain it, it's bad."** ✨
-
-*Thanks for stopping by! Let's build something amazing together.* 🚀
-
-</div>
+  void executePassion() {
+    print("Building amazing mobile experiences, one widget at a time! 📱");
+  }
+}
